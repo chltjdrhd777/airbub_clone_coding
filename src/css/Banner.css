@@ -1,0 +1,28 @@
+.banner {
+  height: 50vh;
+  position: relative;
+  background: url("https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2009/7/17/1247840277934/Cumulus-clouds-in-a-blue--001.jpg?width=300&quality=85&auto=format&fit=max&s=f6e03bc64379183cc1a418fbd497564f");
+  background-size: cover;
+}
+
+.banner__info {
+  background-color: black;
+  color: white;
+  padding-top: 12vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  width: 300px;
+}
+
+.banner__info > button {
+  background-color: #fb682e;
+  text-transform: inherit;
+  margin-top: 10px;
+  font-weight: 600;
+  color: white;
+}
+
+.banner__info > h5 {
+  padding-top: 7px;
+}
