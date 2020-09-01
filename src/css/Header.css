@@ -34,14 +34,6 @@
   margin-right: 7px;
 }
 
-.header_center > h5 {
-  padding-top: 5px;
-}
-
-.header_center > input:focus {
-  border: blue;
-}
-
 .header__right {
   display: flex;
   align-items: center;
